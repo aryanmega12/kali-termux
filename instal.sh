@@ -1,4 +1,3 @@
-
 clear
 read -p " Does you want to install aryan-mega-trn Shell in Termux?(Yes/No) : " input
 
@@ -18,4 +17,4 @@ exit 2
 else
 echo -e "\e[1;91mInvalid Option"
 exit 1
-fi 
+fi
